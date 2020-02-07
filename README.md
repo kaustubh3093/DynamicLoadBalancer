@@ -1,0 +1,2 @@
+# DynamicLoadBalancer
+The goal of the Project is to allocate a machines on the server and finally add the services on the respective machines finally using round robin get the service hosted on the machine you want. The functionality includes adding machines to the server, adding service to the machines and if the machine is not present for that specific service throw an error. Also, you can delete the machine which in turn delete all the service on that machine and you can delete the service.
